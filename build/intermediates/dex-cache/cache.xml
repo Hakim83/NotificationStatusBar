@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_6892039d7fa290430235ae2e415a327e1dfb97e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_22b802f1bf4dbea7b21b111ea95d7d311cdf4567.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e984afb39f0a7ba60fe9b090e511b20f38c8d06d">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\instant-run_d037138187461e8d6b3d1084d86f90be34dd1f12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7541573f4cf2a18e5b660d140b5328f71f5c2a30">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d5e84b844e8dcfc1b6b2e1798d87f76e8d2d065e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_e9cef422bab7d0e94ba65839e56a9190312bb030.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_d752fbb1f2fe66ab01f57f38ec0eab23e5f29ab3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_eccfb78db039a7884b707adfc37db1dd4832a04a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\NotificationStatusBar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_227d0966ea6fe0a55e25f6cb2df08d4cff1f7e4e.jar" />
+    </item>
+
+</items>
